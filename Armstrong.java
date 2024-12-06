@@ -19,11 +19,11 @@ for(int i=0;i<t;i++)
     System.out.println(rev);
     if(temp==rev)
     {
-        System.out.println("palindrome");
+        System.out.println("armstrong");
     }
     else
     {
-        System.out.println("not palindrome");
+        System.out.println("not armstrong");
     }
 }
 }
